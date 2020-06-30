@@ -12,7 +12,7 @@ class ReverseTheNumber {
                 res =res*10 +var;
                 num =num/10;
             }
-            System.out.println("reverse value is -" +res);
+            System.out.println("reverse value is ---" +res);
         }
         sc.close();
     }
