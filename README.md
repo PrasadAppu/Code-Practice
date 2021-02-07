@@ -1,2 +1,2 @@
-# CodechefPractice
-solve problems from codechef 
+#Code_practice
+solve problems
